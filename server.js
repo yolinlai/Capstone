@@ -5,7 +5,7 @@ const io = require('socket.io')(server)
 const peer = require('peer');
 //const { v4: uuidV4 } = require('uuid')
 
-console.log('start server')
+console.log('start server') 
 app.set('view engine', 'ejs')
 app.use(express.static('public'))
 app.use(express.static('views'))

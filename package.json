@@ -20,5 +20,13 @@
   "devDependencies": {
     "nodemon": "^2.0.20"
   },
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yolinlai/Capstone.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yolinlai/Capstone/issues"
+  },
+  "homepage": "https://github.com/yolinlai/Capstone#readme"
 }
